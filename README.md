@@ -33,7 +33,6 @@ Once installed and configured, the app will appear in the ticket sidebar within 
 
 ![one](assets/screenshot-0.png)
 ![two](assets/screenshot-1.png)
-![three](assets/screenshot-2.png)
 
 ## Support
 
