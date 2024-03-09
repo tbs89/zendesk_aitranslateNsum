@@ -15,10 +15,11 @@ AITranslateN'Sum uses the "gpt-3.5-turbo" model as its default for processing ti
 
 The app employs a specific prompt structure to communicate with OpenAI's API, ensuring that the response is formatted to include a summary, keypoints, and a translation of the customer's ticket. Here is the prompt structure used:
 
+```
 Generate a summary of the following text '[customer_ticket_text]' in English. Then create bulletpoints for the keypoints of the text. Translate the following text to English: '[customer_ticket_text]'.
 The structure of your reply should always be:
 
-```
+
 <strong>Summary:</strong>
 
 "the summary of the text"
