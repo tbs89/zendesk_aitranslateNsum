@@ -5,7 +5,7 @@ AITranslateN'Sum is a Zendesk Support that summarizes and translates the last cu
 
 ### The following information is displayed:
 
-* **Summarization:** Generate concise summaries of the last customer comment to quickly grasp the customer's issue.
+* **Summarization:** Generate concise summaries of the **last customer comment** to quickly grasp the customer's issue.
 * **Key Points Extraction:** Identify and list key points from the customer's comment, making it easier for agents to address specific concerns.
 * **Translation:** Translate the last customer comment into **English**, aiding agents in understanding and responding to non-English speaking customers.
 
