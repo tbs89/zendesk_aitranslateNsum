@@ -1,0 +1,13 @@
+{
+  "app": {
+    "name": "AITranslateN'Sum",
+    "short_description": "Use OpenAI's ChatGPT to summarize and translate Support tickets.",
+    "long_description": "AITranslateN'Sum leverages OpenAI's ChatGPT technology to revolutionize support ticket management by summarizing and translating customer requests. Install it with just your OpenAI API key to empower your support team with AI-driven efficiency and cross-language clarity.",
+    "installation_instructions": "Simply nstall the app and add your OpenAI API key.",
+    "parameters": {
+      "openAiApiToken" : {
+        "label": "OpenAI API key"
+      }
+    }
+  }
+}
